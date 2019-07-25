@@ -1,0 +1,3 @@
+[submodule "external/open-vcdiff"]
+	path = external/open-vcdiff
+	url = git@github.com:dellis1972/open-vcdiff.git
